@@ -1,1 +1,5 @@
-{"extension":true}
+{
+    "__proto__": {
+        "sanitize": false
+    }
+}
